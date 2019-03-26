@@ -1,0 +1,18 @@
+[
+    {
+      "Header": "Name",
+      "accessor": "name"
+    },
+    {
+      "Header": "Department",
+      "accessor": "dept"
+    },
+    {
+      "Header": "Year",
+      "accessor": "year"
+    },
+    {
+      "Header": "Grade",
+      "accessor": "grade"
+    }
+]

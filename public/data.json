@@ -1,0 +1,122 @@
+[ 
+    {
+        "name": "Aryan",
+        "dept": "ECE",
+        "year": 2019,
+        "grade": 1
+    },
+    {
+        "name": "Bhavesh",
+        "dept": "ECE",
+        "year": 2019,
+        "grade": 2
+    },
+    {
+        "name": "Chaitanya",
+        "dept": "EEE",
+        "year": 2019,
+        "grade": 3
+    },
+    {
+        "name": "Darsh",
+        "dept": "ECE",
+        "year": 2018,
+        "grade": 3
+    },
+    {
+        "name": "Eashan",
+        "dept": "EEE",
+        "year": 2018,
+        "grade": 2
+    },
+    {
+        "name": "Gaurish",
+        "dept": "EEE",
+        "year": 2019,
+        "grade": 1
+    },
+    {
+        "name": "Hardik",
+        "dept": "ECE",
+        "year": 2019,
+        "grade": 1
+    },
+    {
+        "name": "Itish",
+        "dept": "EEE",
+        "year": 2018,
+        "grade": 2
+    },
+    {
+        "name": "Jagrav",
+        "dept": "IT",
+        "year": 2019,
+        "grade": 3
+    },
+    {
+        "name": "Kriday",
+        "dept": "IT",
+        "year": 2018,
+        "grade": 3
+    },
+    {
+        "name": "Nirav",
+        "dept": "IT",
+        "year": 2019,
+        "grade": 2
+    },
+    {
+        "name": "Pragyan",
+        "dept": "CSE",
+        "year": 2018,
+        "grade": 1
+    },
+    {
+        "name": "Saatvik",
+        "dept": "CSE",
+        "year": 2019,
+        "grade": 1
+    },
+    {
+        "name": "Vrishank",
+        "dept": "CSE",
+        "year": 2018,
+        "grade": 2
+    },
+    {
+        "name": "Warren",
+        "dept": "CSE",
+        "year": 2019,
+        "grade": 2
+    },
+    {
+        "name": "Zythum",
+        "dept": "IT",
+        "year": 2019,
+        "grade": 3
+    },
+    {
+        "name": "Raval",
+        "dept": "MECH",
+        "year": 2018,
+        "grade": 3
+    },
+    {
+        "name": "Krishnan",
+        "dept": "MECH",
+        "year": 2019,
+        "grade": 3
+    },
+    {
+        "name": "Sethu",
+        "dept": "MECH",
+        "year": 2019,
+        "grade": 1
+    },
+    {
+        "name": "Veera",
+        "dept": "ECE",
+        "year": 2018,
+        "grade": 1
+    }
+]
